@@ -4,6 +4,8 @@
 
 ## [Зарегистрироваться на хакатон](https://docs.google.com/forms/d/e/1FAIpQLSfVk79M-NeQySrX9PJDhi8Au-FQU3hNY01M46i__NJhyeQu0w/viewform).
 
+## [Ссылка на анкету участниц Мисс Физтех](https://docs.google.com/forms/d/e/1FAIpQLSeCcuaGNzO-3lQ1p1q3ijecoQVk463PVvr7EwdfGDRXOic2zA/viewform)
+
 ## Задание
 
 Придумай "метрику мисс-миптовости", "линейку физтех-красоты", "штангенциркуль крутости физтешки"! Иными словами, запрогай что-то, что сможет отранжировать кандидаток в Мисс Физтех и выбрать лучшую. 
